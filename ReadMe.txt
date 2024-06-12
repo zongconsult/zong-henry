@@ -1,7 +1,8 @@
-I'm trimming this website down to
+Preview Website
+================
 
-- Homepage
-- Services
+Visit:  https://henry.is-great.net
 
+Or via Netligy here
 
-Azure Static Web Apps
+https://merry-mandazi-f002aa.netlify.app/
