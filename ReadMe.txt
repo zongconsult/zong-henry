@@ -3,6 +3,6 @@ Preview Website
 
 Visit:  https://henry.is-great.net
 
-Or via Netligy here
+Or via Netlify here
 
 https://henryzong.netlify.app/
